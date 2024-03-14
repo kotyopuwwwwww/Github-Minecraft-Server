@@ -1,0 +1,14 @@
+[Unit]
+Description=Expose Minecraft using Cloudflare Tunnel
+After=network.target
+
+[Service]
+TimeoutStartSec=0
+Type=simple
+ExecStart=/usr/local/bin/cloudflared access tcp --hostname mc-tunnel.sksat.net --url mc.yohane.su:25565 --loglevel info
+Restart=always
+StartLimitInterval=60s
+StartLimitBurst=5
+
+[Install]
+WantedBy=default.target
