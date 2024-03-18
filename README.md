@@ -3,9 +3,9 @@
 ![](https://img.shields.io/uptimerobot/status/m787979705-dedee70ce3309167bafdd585?label=Port%20Status)
 ![mc.yohane.su](https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fmc.yohane.su%3Fport%3D25565)
 
-my minecraft server
+私の自宅サバ嫌だしaternos重すぎだろ//っていう対策のために制作中
 
-## status
+## 超越ステータス// いや全部落ちてるけども
 
 - [Uptime Robot](https://stats.uptimerobot.com/QLk7XC6Kxv/787979705)
 - [Grafana Dashboard](https://grafana.sksat.net/goto/aq1Idnknk?orgId=1)
